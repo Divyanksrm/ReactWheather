@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactWheather/static/css/main.f8a67c49.chunk.css",
+    "main.js": "/ReactWheather/static/js/main.944a3e11.chunk.js",
+    "main.js.map": "/ReactWheather/static/js/main.944a3e11.chunk.js.map",
+    "runtime-main.js": "/ReactWheather/static/js/runtime-main.9c2132ff.js",
+    "runtime-main.js.map": "/ReactWheather/static/js/runtime-main.9c2132ff.js.map",
+    "static/css/2.fbfc34f4.chunk.css": "/ReactWheather/static/css/2.fbfc34f4.chunk.css",
+    "static/js/2.9ef33e5c.chunk.js": "/ReactWheather/static/js/2.9ef33e5c.chunk.js",
+    "static/js/2.9ef33e5c.chunk.js.map": "/ReactWheather/static/js/2.9ef33e5c.chunk.js.map",
+    "index.html": "/ReactWheather/index.html",
+    "static/css/2.fbfc34f4.chunk.css.map": "/ReactWheather/static/css/2.fbfc34f4.chunk.css.map",
+    "static/css/main.f8a67c49.chunk.css.map": "/ReactWheather/static/css/main.f8a67c49.chunk.css.map",
+    "static/js/2.9ef33e5c.chunk.js.LICENSE.txt": "/ReactWheather/static/js/2.9ef33e5c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c2132ff.js",
+    "static/css/2.fbfc34f4.chunk.css",
+    "static/js/2.9ef33e5c.chunk.js",
+    "static/css/main.f8a67c49.chunk.css",
+    "static/js/main.944a3e11.chunk.js"
+  ]
+}
